@@ -29,4 +29,4 @@ pip install -r requirements.txt
 4. 右键结果可复制链接或浏览器打开
 
 ## 许可证
-本项目采用 MIT License。依赖项 [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) 同样使用 MIT License。
+本项目采用 MIT License。依赖项 [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
